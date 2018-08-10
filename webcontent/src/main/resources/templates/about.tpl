@@ -25,9 +25,9 @@ and collaborate, see the <a href="https://wikihub.berkeley.edu/display/istds/Ber
 <h3>Project Team:</h3>
 
 <p>
-Patrick Schmitz, Semantic Services Architect, IST/Data Services, U.C. Berkeley<br />
-Dr. Laurie Pearce, Near Eastern Studies, U.C. Berkeley<br />
-Prof. Niek Veldhuis, Near Eastern Studies, U.C. Berkeley<br />
+Patrick Schmitz, Semantic Services Architect, IST/Data Services, UC Berkeley<br />
+Dr. Laurie Pearce, Near Eastern Studies, UC Berkeley<br />
+Prof. Niek Veldhuis, Near Eastern Studies, UC Berkeley<br />
 <br />
 </p>
 
